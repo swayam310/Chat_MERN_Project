@@ -2,7 +2,6 @@
 
 A modern, real-time chat application built with the MERN stack, featuring instant messaging, online user status, image sharing, and a beautiful UI.
 
-![Demo App](./frontend/public/screenshot-for-readme.png)
 
 ## ✨ Features
 
@@ -284,4 +283,5 @@ If you have any questions or run into issues, please open an issue on the GitHub
 ---
 
 ⭐ If you found this project helpful, please consider giving it a star!
+
 
